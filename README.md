@@ -6,7 +6,7 @@ Miniproyek ini merupakan sebuah program yang digunakan untuk bisa menuncukan 5 d
 #Identitas Mahasiswa
 Nama : [Anggita Fitri Permatasari]
 NIM : [2405201]
-Keas : [PSTI - 2B]
+Kelas : [PSTI - 2B]
 
 #Identitas Kaka Tingkat
 Nama : [Siti Aminah]
